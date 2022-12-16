@@ -1,0 +1,157 @@
+
+.navbar{
+    height: 88px;
+    border-bottom: 0.5px solid rgb(209, 205, 205);
+    background-color: white;
+}
+
+.navbar ul{
+    line-height: 60px;
+}
+
+.hero{
+    height: 20em;
+    
+    margin-top:88px;
+}
+
+.hero .content-center{
+    padding-top: 5em;
+}
+
+.hero .content-center p{
+    display: inline-block;
+    background-color: #F9F9FB;
+    
+}
+
+.hero .content-center p span{
+    background: white;
+    padding-left: 6px;
+    
+}
+.hero .content-center h2{
+    font-size: 3em;
+    font-weight: 650;
+}
+
+.hero .pera-center{
+    padding-top: 10em;
+}
+
+.input div{
+    width: 49rem !important;
+    height: 3rem;
+    padding-top: 13px;
+    padding-left: 5px;
+    position:absolute;
+}
+
+.form{
+    background-color: rgb(247, 244, 244) !important;
+    height: 4rem;
+    width: 50rem;
+    display: block;
+}
+.form input{
+    outline: none;
+    border: none;
+}
+
+.input .img{
+    margin-top: -4rem;
+    z-index: -100;
+}
+
+.input p{
+    background-color: #F9F9FB;
+    display: inline-block;
+    margin-left: 390px;
+}
+
+.partner{
+    margin-top: 5rem;
+    height: 10rem;
+    background: white;
+    padding-top: 4.5rem;
+}
+
+.explore{
+    margin-top: 2rem;
+    background: #F9F9FB;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.explore img{
+    border: 1px solid lightgray;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.companies{
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+.companies img{
+    border: 1px solid lightgray;
+    padding: 10px;
+
+}
+
+.choose{
+    padding-top: 7rem;
+    padding-bottom: 8rem;
+}
+.text{
+    padding-top: 3rem;
+    color: blue;
+    text-transform: uppercase;
+}
+
+.choose .people{
+    padding: 10px;
+}
+
+.choose-card{
+    background-color: #F9F9FB;
+}
+
+.testimonial{
+    margin-top: 2rem;
+    background: #F9F9FB;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.testimonial .money{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 8rem;
+}
+
+.blog{
+    margin-top: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.explore2{
+    margin-bottom: 10rem;
+}
+.explore2 img{
+    margin-left: 38rem;
+    margin-bottom: 5rem;
+}
+
+.explore-form{
+    margin-left: 15rem;
+    margin-top: 8rem;
+
+}
+
+.footer{
+    border-top: 2px dotted lightgray;
+    margin-bottom: 2rem;
+}
